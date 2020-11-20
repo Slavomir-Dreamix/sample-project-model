@@ -1,0 +1,14 @@
+/jenkins/pipeline.gdsl
+/target/
+/nbproject/
+.idea/
+/lib/
+*.iml
+.vscode/
+.settings/
+.classpath
+.factorypath
+.project
+nbactions*
+nb-configuration.xml
+bin/
